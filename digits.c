@@ -9,7 +9,7 @@
 long sum_of_digits(long input)
 {
   // TODO: replace this line with the correct code.
-  return 0;
+  return -1;
 }
 
 /**
