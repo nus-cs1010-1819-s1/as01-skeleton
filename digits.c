@@ -1,7 +1,8 @@
 /**
  * CS1010 Semester 1 AY18/19
  * Assignment 1: Digits
- * Read an integer and output the sum of the digits.
+ * Read an integer from the standard input and print 
+ * the sum of the digits to the standard output.
  * @file: digits.c
  * @author: XXX (Group YYY)
  */
